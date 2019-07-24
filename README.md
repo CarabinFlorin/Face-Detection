@@ -1,3 +1,3 @@
 # Face-Detection
-A simple face detection app
+A simple face detection appn\n
 Requires OpenCV to be installed.
